@@ -15,6 +15,8 @@ My rule: test what *could* be automated, then decide what *should* be.
 | Project | What it shows |
 |---|---|
 | [ai-chat-to-service-ticket](https://github.com/birneyj1218/ai-chat-to-service-ticket) | Website chat that answers, collects job details and opens a service ticket, with human takeover · Chatwoot, n8n, LLM, Odoo |
+| [human-approved-agents](https://github.com/birneyj1218/human-approved-agents) | A small team of AI agents (research, draft, review) where nothing goes out until a person approves that exact version in Discord; learns from edits, audit log, optional local GPU voice · Python |
+| [after-hours-call-report](https://github.com/birneyj1218/after-hours-call-report) | AI answers after-hours calls, flags emergencies, texts the owner right away and emails a morning report · voice AI, n8n, LLM |
 | [speed-to-lead-automation](https://github.com/birneyj1218/speed-to-lead-automation) | New lead → instant text and AI call-back → CRM, with quiet hours, retries and opt-out · n8n, voice AI, SMS |
 
 ### Tools I work with
